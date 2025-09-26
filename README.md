@@ -22,5 +22,10 @@ By night (and weekends) we craft beautiful, reliable websites and keep them runn
 - **Collaborative** communication—your goals drive our roadmap  
 
 ## 🚀 Getting Started
-1. **Contact Us** – Open an [issue](../../issues) or email us at `hello@duodev.dev`  
-2. **Project Brief** – We’ll disc
+1. **Contact Us** – Email us at `sidegineers@gmail.com`  
+2. **Project Brief** – We’ll discuss requirements, timeline, and budget  
+3. **Launch & Maintain** – We build, ship, and support  
+
+## 📄 License
+All code and deliverables we create for clients belong to them.  
+“© 2025 Sidegineers. All rights reserved. This repository is for informational purposes only.”
